@@ -11,7 +11,7 @@ Biotech Research Club is a student run organisation at IIT Madras which serves a
 ## Sankalpa Venkatraghavan <br>
 Bioengineering Major <br>
 
-![](/images/Sankalpa.jpg)
+![](/images/Logo.png)
 
 
 
