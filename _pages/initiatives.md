@@ -6,6 +6,6 @@ permalink: /initiatives/
 
 ### Announcements!
 
-Welcome!
+Welcome! <br><br>
 
-Biotech Research Club is back with a new series of virtual events. Stay tuned!
+Biotech Research Club is back with a new series of virtual events. Stay tuned! <br><br>
