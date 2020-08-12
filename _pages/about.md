@@ -8,9 +8,12 @@ Biotech Research Club is a student run organisation at IIT Madras which serves a
 
 # Meet Our Heads!
 
-Sahana Gangadharan
-Sankalpa Venkatraghavan 
-Sathvik Anantakrishnan
+###Sahana Gangadharan 
+<Insert description>
+###Sankalpa Venkatraghavan 
+<Insert description>
+###Sathvik Anantakrishnan
+<Insert description>
 
 
 
