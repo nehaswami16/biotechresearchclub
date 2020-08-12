@@ -4,7 +4,7 @@ title: Initiatives
 permalink: /initiatives/
 ---
 
-### Announcements!
+### Announcements
 
 Welcome! <br><br>
 
