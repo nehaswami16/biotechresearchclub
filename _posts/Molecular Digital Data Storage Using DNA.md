@@ -5,10 +5,7 @@ categories: [blog]
 excerpt: This brings us to a situation where we have to hunt for a novel way to store large amounts of data for a very long period of time. 
 What’s so special about DNA? 
 ---
-
-
-
-G. Prashant
+<i> By G. Prashant </i>
 
 ”I am inspired by the biological phenomena in which chemical forces are used in a repetitious fashion to produce all kinds of weird effects.” - Richard Feynman
 
@@ -41,7 +38,7 @@ As mentioned previously, this step involves mapping strings of bits into DNA seq
 
 If we have to retrieve a particular data item from the library of DNA pools, we have to make sure that we choose that specific item among others rather than reading all the available data. This principle is called random access and is widely incorporated in computer memory. This can also be achieved in DNA storage by making use of PCR (Polymerase Chain Reaction) associated primers or magnetic bead extraction. Once the required data item is identified, we have to sequence it and convert it back to binary format. Again, there are a variety of ways to sequence DNA. Next-Generation Sequencing (NGS) is a massively parallel sequencing technique which is widely used on a commercial scale. Other methods include Sanger sequencing and Nanopore sequencing. 
 
-###### What about errors? 
+##### What about errors? 
 Both sequencing and synthesis are prone to errors like substitution, insertion and deletion of bases. In order to address these issues, error-correcting codes are implemented during the process of encoding. For example, redundant information is added to increase the probability that the original information can be retrieved even in the presence of errors and missing data. There are several ways to incorporate redundant information. Reed-Solomon codes are popular error-correcting codes that are also used to correct errors in present digital storage devices. 
 
 ##### Storing data inside living cells! 
