@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Molecular Digital Data Storage Using DNA
-categories: [blog]
+categories: 
 excerpt: This brings us to a situation where we have to hunt for a novel way to store large amounts of data for a very long period of time. 
 What’s so special about DNA? 
 ---
