@@ -1,10 +1,9 @@
 ---
 layout: post
 title:  Molecular Digital Data Storage Using DNA
-categories: 
-excerpt: This brings us to a situation where we have to hunt for a novel way to store large amounts of data for a very long period of time. 
-What’s so special about DNA? 
+categories: synthetic biology
 ---
+
 <i> By G. Prashant </i>
 
 ”I am inspired by the biological phenomena in which chemical forces are used in a repetitious fashion to produce all kinds of weird effects.” - Richard Feynman
