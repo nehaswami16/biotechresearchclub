@@ -14,7 +14,7 @@ I'm a fourth-year undergraduate majoring in biological engineering. I'm interest
 ### Sankalpa Venkatraghavan 
 <img src = "../images/Sankalpa.jpg" width = "400">
 
-I'm a fourth-year undergraduate majoring in biological engineering. I’m interested in research centred on questions from biology, books that make you feel things and the art of communication. 
+I'm a fourth-year undergraduate majoring in biological engineering. I’m interested in research centred on questions from biology - especially those studied using intergrated approaches of experiments, modelling and theory, books that make you feel things and the art of communication. 
 
 ### Sathvik Anantakrishnan
 <img src = "../images/Sathvik.jpg" width = "400">
