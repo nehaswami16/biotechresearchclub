@@ -6,7 +6,7 @@ permalink: /about/
 
 Biotech Research Club is a student run organisation at IIT Madras which serves as a platform to promote, discuss and encourage research in biology and allied fields. 
 
-## [Meet Our Heads!]
+## Meet Our Heads!
 
 ### Sahana Gangadharan 
 I'm a fourth-year undergraduate majoring in biological engineering. I'm interested in understanding the various aspects that govern development and communications within the brain, soul-stirring music and movies, and meeting new people.
