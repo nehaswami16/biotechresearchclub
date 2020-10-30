@@ -6,16 +6,16 @@ permalink: /about/
 
 Biotech Research Club is a student run organisation at IIT Madras which serves as a platform to promote, discuss and encourage research in biology and allied fields. 
 
-# Meet Our Heads!
+<h2> Meet Our Heads! </h2>
 
 ### Sahana Gangadharan 
-Insert description <br>
+I'm a fourth-year undergraduate majoring in biological engineering.
   
 ### Sankalpa Venkatraghavan 
-Insert description <br>
+I'm a fourth-year undergraduate majoring in biological engineering. I’m interested in research centred on questions from biology, books that make you feel things and the art of communication. 
 
 ### Sathvik Anantakrishnan
-Insert description <br>
+I'm a fourth-year undergraduate majoring in biological sciences.
 
 
 
