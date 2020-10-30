@@ -11,7 +11,8 @@ Biotech Research Club is back with a new series of virtual events.<br><br>
 
 Biotech Research Club is hosting a talk by Dr. Siddhant Jain, a postdoctoral fellow at Harvard Medical School. The talk will be followed by a general discussion session for students to interact with the speaker. 
 
-<img src="{{ site.baseurl }}https://github.com/biotechstudentassociation/biotechresearchclub/blob/master/images/BRC Poster 31_10.png" width="600" />
+<img src="https://github.com/biotechstudentassociation/biotechresearchclub/blob/master/images/BRC Poster 31_10.png" width="600">
+</img>
 
 <b> Title: </b> Dysregulation of Polycomb-mediated gene silencing in pediatric gliomas <br>
 
