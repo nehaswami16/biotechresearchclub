@@ -10,5 +10,5 @@ We are delighted to publish this compilation of popular science articles centred
 
 ![](../images/CoverPage.png)
 
-[Synthetic Biology Feature](../assets/BLD.pdf)
+## [Synthetic Biology Feature](../assets/BLD.pdf)
 
