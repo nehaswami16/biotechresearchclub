@@ -19,7 +19,7 @@ I'm a fourth-year undergraduate majoring in biological engineering. I’m intere
 ### Sathvik Anantakrishnan
 <img src = "../images/Sathvik.jpg" width = "400">
 
-I'm a fourth-year undergraduate majoring in biological sciences.
+I'm a fourth-year undergraduate majoring in biological sciences. I like biophysics, sythetic biology and cats.
 
 
 
