@@ -10,7 +10,9 @@ Biotech Research Club is a student run organisation at IIT Madras which serves a
 
 ### Sahana Gangadharan 
 I'm a fourth-year undergraduate majoring in biological engineering. I'm interested in understanding the various aspects that govern development and communications within the brain, soul-stirring music and movies, and meeting new people.
-  
+
+<img src = "../images/Sahana.jpg" width = "400">
+
 ### Sankalpa Venkatraghavan 
 <img src = "../images/Sankalpa.jpg" width = "400">
 
@@ -19,7 +21,7 @@ I'm a fourth-year undergraduate majoring in biological engineering. I’m intere
 ### Sathvik Anantakrishnan
 <img src = "../images/Sathvik.jpg" width = "400">
 
-I'm a fourth-year undergraduate majoring in biological sciences. I like biophysics, sythetic biology and cats.
+I'm a fourth-year undergraduate majoring in biological sciences. I'm interested in interdisciplinary research, particularly in the use of physics and mathematical modeling to understand living systems. Outside of science, I love cats and all kinds of books.
 
 
 
