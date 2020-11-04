@@ -15,16 +15,16 @@ Biotech Research Club is hosting a talk by Dr. Kartik Gupta, a graduate student 
 
 <b> Title: </b> Helming Yama’s Buffalo: Molecular Regulation of RIPK3 Mediated Programmed Necrosis in Physiology and Disease
 
-</b> Date/Time: </b>  7.30 PM, 7th November 2020
+<b> Date/Time: </b>  7.30 PM, 7th November 2020
 
-</b> Venue: </b> Google Meet
+<b> Venue: </b> Google Meet
 
-</b> Link: </b> https://meet.google.com/hmm-qujj-qrp 
+<b> Link: </b> https://meet.google.com/hmm-qujj-qrp 
 
 <b>Biography of the Speaker:</b>
 Kartik Gupta grew up in New Delhi and received a bachelor's degree in Biotechnology from Amity University and was a summer research fellow in many institutes such as ICGEB, NII, JNU and AIIMS. Driven by the scientific curiosity that this training had instilled, he joined the MS (research) program at IIT-M and worked in Dr. Aradhyam Gopala Krishna's lab from 2012-14 while spending one semester as part of DAAD scholarship at TU-Munich. He joined the Cell and Molecular Biology (CMB) graduate program at the University of Wisconsin-- Madison in 2014 in the lab of Dr. Bo Liu where he studied the basic science aspects of cell death with relevance to cardiovascular diseases. Outside of the lab, he is a coffee aficionado and also enjoys weightlifting and running.
 
-</b>Abstract:</b>
+<b>Abstract:</b>
 Multiple programmed cell death (PCD) pathways have been discovered over the past 15 years that have challenged the synonymity of PCD with apoptosis. RIPK3 mediated programmed necrosis (or necroptosis) is unique within PCD pathways in its ability to proceed in the absence of caspases-- proteases that are widely involved in apoptosis and other PCDs. Instead, necroptosis occurs via sequential post-translational modifications involving the RIP kinases RIPK1 and RIPK3. Although the factors involved in necroptosis differ from apoptosis, the signalling complexes involved in key decision-making steps are shared, and how cells choose one form of PCD over the other remains a fascinating area of investigation. In this talk, I provide an overview of various PCDs and how this decision-making process plays out in deciding apoptosis over necroptosis in the same cell. I present data from my own research arguing that the cellular abundance of RIPK3 (which is a bottleneck in necroptosis) is regulated via multiple transcriptional and post-translational mechanisms and is key in this decision-making process. I will also present some recent findings from our lab and others on how the necroptotic machinery moonlights with the endosomal pathway leading to extracellular vesicle biogenesis.
 
 ___ 
@@ -37,10 +37,9 @@ Biotech Research Club is hosting a talk by Dr. Siddhant Jain, a postdoctoral fel
 
 <b> Date/Time : </b> 7.30 PM IST, 31st October, 2020 <br>
 
-<b> Biography of the Speaker: </b> <br>
+<b> Biography of the Speaker: </b> 
 Siddhant Jain recently obtained his PhD from the Department of Biomolecular Chemistry at University of Wisconsin-Madison. He completed his B.Tech. in Biotechnology from IIT Roorkee. He is interested in understanding the enzymes that alter chromatin structure and regulate gene expression in eukaryotes. In his doctoral work in Dr. Peter Lewis' lab, he discovered the biochemical function of a novel oncogene, EZHIP. He is off to a postdoctoral position with Dr. Cigall Kadoch at Harvard Medical School.   
-
   
-<b> Abstract: </b> <br>
+<b> Abstract: </b> 
 An aberrant transcriptional profile is a hallmark of several cancers. Chemical modifications of DNA and histones, modulate chromatin structure and regulate transcription. Consequently, enzymes that catalyze addition or removal of these chemical modifications are frequently mutated in cancers. Recent studies have identified recurrent histone H3K27M mutations or aberrant expression of EZHIP in Diffuse Midline Gliomas and a subtype of ependymomas. In my doctoral studies, we characterized the biochemical function of these oncoproteins as competitive inhibitors of a chromatin-modifying enzyme – Polycomb Repressive Complex 2 (PRC2). I will discuss the molecular function of PRC2 and the mechanism by which these oncogenes drive highly aggressive pediatric gliomas.  
 
