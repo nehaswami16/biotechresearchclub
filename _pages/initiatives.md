@@ -9,7 +9,7 @@ Welcome! <br><br>
 
 Biotech Research Club is back with a new series: Alumni Talks.<br><br>
 
-Biotech Research Club is hosting a talk by Dr. Kartik Gupta, a graduate student in the Cell and Molecular Biology program at the University of Wisconsin – Madison.  
+Biotech Research Club is hosting a talk by Dr. Kartik Gupta, a graduate student in the Cell and Molecular Biology program at the University of Wisconsin – Madison.The talk will be followed by a general discussion session for students to interact with the speaker.  
 
 <img src="../images/BRC-poster-07-11.jpg" alt="drawing" width="300" />
 
