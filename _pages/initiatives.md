@@ -15,7 +15,7 @@ Biotech Research Club is hosting a talk by Dr. Kartik Gupta, a graduate student 
 
 <b> Title: </b> Helming Yama’s Buffalo: Molecular Regulation of RIPK3 Mediated Programmed Necrosis in Physiology and Disease
 
-<b> Date/Time: </b>  7.30 PM, 7th November 2020
+<b> Date/Time: </b>  7.30 PM, 6th November 2020
 
 <b> Venue: </b> Google Meet
 
