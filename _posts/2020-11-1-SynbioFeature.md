@@ -10,7 +10,7 @@ We are delighted to publish this compilation of popular science articles centred
 </div>
 
 
-## [Synthetic Biology Feature](../assets/Attempt5.pdf)
+## [Synthetic Biology Feature](../assets/SyntheticBiologyFeature.pdf)
 
 
 ![](../images/CoverPage.png)
