@@ -9,9 +9,11 @@ Biotech Research Club is a student run organisation at IIT Madras which serves a
 ## Meet The Team!
 
 ## Heads
+
+### Burhan Sabuwala 
 <img src = "../images/Burhan.jpg" width = "400">
 
-I'm a fourth-year undergraduate majoring in biological engineering and data science. I'm interested in addressing questions related to human diseases from a computational or data-driven lens and very excited by complex and dynamic systems. Outside of science, I like to read and understand science policy.
+I'm a fourth-year undergraduate majoring in biological engineering and data science. I'm interested in addressing questions related to human diseases from a computational or data-driven lens and very excited by complex and dynamic systems. I also like to read and understand science policy.
 
 ### Sahana Gangadharan 
 <img src = "../images/Sahana.jpg" width = "400">
