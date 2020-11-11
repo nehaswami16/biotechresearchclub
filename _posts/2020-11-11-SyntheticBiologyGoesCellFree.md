@@ -53,9 +53,11 @@ CFSs can also be used for efficient energy storage. However, the research on thi
 
 <div style="text-align: justify"> 
 CFS can be extensively used in education and spreading awareness about synthetic biology. Since it is bio-safe, it can be taken out of the lab to schools and education centres and some live experiments can be shown.
+</div>
 
 ![](../images/SyntheticBiologyGoesCellFree/Fig3.png)
 
+<div style="text-align: justify"> 
 CFS technology has immense potential because of its bio-safe format, lack of a cell wall allowing for rapid prototyping, and better control over the system. It has immense potential in various areas ranging from diagnostics, agriculture, peptide-based therapeutics, metabolic engineering, bioremediation, energy storage, and spreading awareness about synthetic biology.
 </div>
 
