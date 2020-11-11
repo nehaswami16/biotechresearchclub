@@ -6,7 +6,7 @@ excerpt: Cell-free systems have been useful for producing many peptide-based the
 author: Burhan Sabuwala
 ---
 ##### By Burhan Sabuwala 
-
+<div style="text-align: justify"> 
 <b> Introduction </b>
 
 Life has evolved on earth for about 3.5 billion years and has survived all odds ranging from volcano eruption to asteroid impact events. This has been possible because life has the ability to reproduce, evolve and adapt to its surroundings. Now, with recent discoveries and the available modern technologies, we can manipulate organisms to do something that suits our purpose. For example, we have been using microorganisms to produce alcohol, bread, curd, etc. However, we now have technologies to cut and paste DNA. We can also synthesize new DNA which can be used in making novel proteins that can perform novel functions. It can also be used to create genetic circuits, analogous to electrical circuits, which can perform various functions like oscillation, switch-like behaviour, memory storage, etc. Engineering life to create something that is not found in nature and can have a useful purpose is synthetic biology.
@@ -45,7 +45,7 @@ CFS can be extensively used in education and spreading awareness about synthetic
 ![](../images/SyntheticBiologyGoesCellFree/Fig3.png)
 
 CFS technology has immense potential because of its bio-safe format, lack of a cell wall allowing for rapid prototyping, and better control over the system. It has immense potential in various areas ranging from diagnostics, agriculture, peptide-based therapeutics, metabolic engineering, bioremediation, energy storage, and spreading awareness about synthetic biology.
-
+</div>
 <b> Reference </b>
 
 Tinafar A, Jaenes K, Pardee K. Synthetic Biology Goes Cell-Free. BMC Biol. 2019 Aug 8;17(1):64. doi: 10.1186/s12915-019-0685-x.
