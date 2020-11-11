@@ -5,7 +5,7 @@ categories: [synthetic biology, cell free systems]
 excerpt: Cell-free systems have been useful for producing many peptide-based therapeutics such as vaccines, antimicrobial peptides, some antibiotics and even safe production of bacteriophages that can be useful for bacteriophage-based therapeutics.
 author: Burhan Sabuwala
 ---
-
+#### By Burhan Sabuwala 
 
 <b> Introduction </b>
 
@@ -28,15 +28,16 @@ Paper-based methods are also very relevant to agriculture which is usually decen
 Cell-free systems have been useful for producing many peptide-based therapeutics such as vaccines, antimicrobial peptides, some antibiotics and even safe production of bacteriophages that can be useful for bacteriophage-based therapeutics. Many proteins require post-translational modifications such as phosphorylation that activates the protein, most of which are shown to be achievable in CFS.
 CFS also allows for the protection of intellectual property as codon tables can be easily modified. This allows for easy encryption of intellectual property.
 
-</b> CFS as a Platform for Discovery </b> 
+<b> CFS as a Platform for Discovery </b> 
 
 CFSs are easy to work with compared to microorganisms or cell lines when it comes to protein engineering as it is easy to crystallize. CFSs have been very useful in metabolic engineering and several groups are able to put long pathways in CFSs and also scale up to process to about 100 litres. Liposomes are enclosed lipid bilayer spheres. Genetic circuits can be enclosed in liposomes and can be prototyped individually in a single system. Membrane proteins can be easily studied on cell-free systems containing liposomes, emulsions, micelles, or oil-water interface.
 CFSs can also be used for efficient energy storage. However, the research on this is still in its nascent stages. Maltodextrose based batteries have much higher energy density compared to even lithium-ion batteries.
 
-</b> Role of CFS in Education </b>
+<b> Role of CFS in Education </b>
 
 CFS can be extensively used in education and spreading awareness about synthetic biology. Since it is bio-safe, it can be taken out of the lab to schools and education centres and some live experiments can be shown.
 CFS technology has immense potential because of its bio-safe format, lack of a cell wall allowing for rapid prototyping, and better control over the system. It has immense potential in various areas ranging from diagnostics, agriculture, peptide-based therapeutics, metabolic engineering, bioremediation, energy storage, and spreading awareness about synthetic biology.
 
 <b> Reference </b>
+
 Tinafar A, Jaenes K, Pardee K. Synthetic Biology Goes Cell-Free. BMC Biol. 2019 Aug 8;17(1):64. doi: 10.1186/s12915-019-0685-x.
