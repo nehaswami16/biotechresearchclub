@@ -21,6 +21,9 @@ Another great advantage of cell-free systems is easy storage and transport. Afte
 <b> Paper-Based Diagnostics </b>
 
 Many groups across the globe have been working on paper-diagnostics. It is similar to using a pH paper to detect pH. The only change is you can use it for many more purposes. The paper can have genetic circuits that get activated upon exposure to water or a buffer and can be used to detect Mercury contamination or the presence of a virus (such as Zika, Dengue or Nipah). These paper-based diagnostics would be cheap and bio-safe to be used on the field and would be especially useful in case of an epidemic.
+
+![](../images/SyntheticBiologyGoesCellFree/Fig1.png)
+
 Paper-based methods are also very relevant to agriculture which is usually decentralized and access to lab testing is difficult. Paper-based synthetic biology methods can be developed to characterize soil nutrients or plant diseases. Such methods can be very beneficial to agriculture.
 
 <b> Production of Therapeutics </b>
@@ -30,12 +33,17 @@ CFS also allows for the protection of intellectual property as codon tables can 
 
 <b> CFS as a Platform for Discovery </b> 
 
+![](../images/SyntheticBiologyGoesCellFree/Fig2.png)
+
 CFSs are easy to work with compared to microorganisms or cell lines when it comes to protein engineering as it is easy to crystallize. CFSs have been very useful in metabolic engineering and several groups are able to put long pathways in CFSs and also scale up to process to about 100 litres. Liposomes are enclosed lipid bilayer spheres. Genetic circuits can be enclosed in liposomes and can be prototyped individually in a single system. Membrane proteins can be easily studied on cell-free systems containing liposomes, emulsions, micelles, or oil-water interface.
 CFSs can also be used for efficient energy storage. However, the research on this is still in its nascent stages. Maltodextrose based batteries have much higher energy density compared to even lithium-ion batteries.
 
 <b> Role of CFS in Education </b>
 
 CFS can be extensively used in education and spreading awareness about synthetic biology. Since it is bio-safe, it can be taken out of the lab to schools and education centres and some live experiments can be shown.
+
+![](../images/SyntheticBiologyGoesCellFree/Fig3.png)
+
 CFS technology has immense potential because of its bio-safe format, lack of a cell wall allowing for rapid prototyping, and better control over the system. It has immense potential in various areas ranging from diagnostics, agriculture, peptide-based therapeutics, metabolic engineering, bioremediation, energy storage, and spreading awareness about synthetic biology.
 
 <b> Reference </b>
