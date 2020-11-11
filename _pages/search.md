@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Find
-permalink: /search/
+permalink: /find/
 ---
 
 <div id="search-container">
