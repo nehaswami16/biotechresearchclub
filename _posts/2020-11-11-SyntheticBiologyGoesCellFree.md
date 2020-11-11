@@ -13,7 +13,6 @@ author: Burhan Sabuwala
 <div style="text-align: justify"> 
 Life has evolved on earth for about 3.5 billion years and has survived all odds ranging from volcano eruption to asteroid impact events. This has been possible because life has the ability to reproduce, evolve and adapt to its surroundings. Now, with recent discoveries and the available modern technologies, we can manipulate organisms to do something that suits our purpose. For example, we have been using microorganisms to produce alcohol, bread, curd, etc. However, we now have technologies to cut and paste DNA. We can also synthesize new DNA which can be used in making novel proteins that can perform novel functions. It can also be used to create genetic circuits, analogous to electrical circuits, which can perform various functions like oscillation, switch-like behaviour, memory storage, etc. Engineering life to create something that is not found in nature and can have a useful purpose is synthetic biology.
 Lots of research has been done in Synthetic Biology and many of its applications have been shown in a variety of fields such as Detection of Heavy Metals using biosensors, manufacturing of certain macromolecules and polymers using microorganisms or cell cultures, diagnostics, bioremediation, producing cleaner and cheaper energy, and many more. However, not many of these inventions have come out of the lab. The major reason for this is the problem of biosafety. The organism that is modified to do a certain task cannot be released in the environment as we do not know how it will interact with the environment outside the lab.
-  
 </div>
 
 <b> Cell-free systems </b> 
@@ -46,12 +45,12 @@ CFS also allows for the protection of intellectual property as codon tables can 
 ![](../images/SyntheticBiologyGoesCellFree/Fig2.png)
 
 <div style="text-align: justify"> 
-  
 CFSs are easy to work with compared to microorganisms or cell lines when it comes to protein engineering as it is easy to crystallize. CFSs have been very useful in metabolic engineering and several groups are able to put long pathways in CFSs and also scale up to process to about 100 litres. Liposomes are enclosed lipid bilayer spheres. Genetic circuits can be enclosed in liposomes and can be prototyped individually in a single system. Membrane proteins can be easily studied on cell-free systems containing liposomes, emulsions, micelles, or oil-water interface.
 CFSs can also be used for efficient energy storage. However, the research on this is still in its nascent stages. Maltodextrose based batteries have much higher energy density compared to even lithium-ion batteries.
 </div>
 
 <b> Role of CFS in Education </b>
+
 <div style="text-align: justify"> 
 CFS can be extensively used in education and spreading awareness about synthetic biology. Since it is bio-safe, it can be taken out of the lab to schools and education centres and some live experiments can be shown.
 
