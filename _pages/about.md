@@ -8,7 +8,7 @@ Biotech Research Club is a student run organisation at IIT Madras which serves a
 
 ## Meet The Team!
 
-## Heads
+## <u> Heads </u>
 
 ### Burhan Sabuwala 
 <img src = "../images/Burhan.jpg" width = "400" height = "400">
