@@ -7,7 +7,7 @@ permalink: /initiatives/
 
 Welcome! <br><br>
 
-Biotech Research Club is back with a new series: Alumni Talks.<br><br>
+Biotech Research Club is back with a new series: [Alumni Talks](https://biotechstudentassociation.github.io/biotechresearchclub/alumnitalks/) <br><br>
 
 Biotech Research Club is hosting a talk by Jay Panji, a PhD scholar at Université Libre de Bruxelles in Brussels, Belgium. The talk will be followed by a general discussion session for students to interact with the speaker. 
 
