@@ -11,7 +11,7 @@ Biotech Research Club is back with a new series: Alumni Talks.<br><br>
 
 Biotech Research Club is hosting a talk by Jay Panji, a PhD scholar at Université Libre de Bruxelles in Brussels, Belgium. The talk will be followed by a general discussion session for students to interact with the speaker. 
 
-<img src="../images/BRC-Poster-21-11.jpg" width="300" />
+<img src="../images/BRC-Poster-21-11.png" width="300" />
 
 <b> Title: </b> Modeling the development and function of the blood-brain barrier in zebrafish.
 
