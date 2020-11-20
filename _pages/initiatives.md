@@ -19,7 +19,7 @@ Biotech Research Club is hosting a talk by Jay Panji, a PhD scholar at Universit
 
 <b> Venue: </b> Google Meet
 
-<b> Link: </b> http://meet.google.com/ket-pqsu-aum
+<b> Link: </b> [http://meet.google.com/ket-pqsu-aum] http://meet.google.com/ket-pqsu-aum
 
 <b>Biography of the Speaker:</b>
 Jay Panji is currently a first-year PhD candidate at the Université Libre de Bruxelles in Brussels, Belgium. His research interests lie in understanding the mechanisms involved in blood-brain barrier formation and how they are perturbed in neurodegenerative disorders. He is currently working on developing a zebrafish model of the blood-brain barrier.  
