@@ -4,6 +4,11 @@ title: Alumni Talks
 permalink: /alumnitalks/
 ---
 
+<img src="../images/Alumni-Talks-Banner.png" alt="drawing" width="600" />
+
+Biotech Research Club hosts a series featuring current graduate and post-graduate students sharing their work. The sessions are followed by informal discussions about academia, getting into graduate school and more! Get in touch with us if you'd like to present your work!
+
+___
 Biotech Research Club is hosting a talk by Jay Panji, a PhD scholar at Université Libre de Bruxelles in Brussels, Belgium. The talk will be followed by a general discussion session for students to interact with the speaker. 
 
 <img src="../images/BRC-session-21-11.jpeg" alt="drawing" width="600" />
