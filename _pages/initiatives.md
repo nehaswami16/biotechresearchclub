@@ -4,7 +4,8 @@ title: Initiatives
 permalink: /initiatives/
 ---
 
-## [I. Alumni Talks](https://biotechstudentassociation.github.io/biotechresearchclub/alumnitalks/) &emsp &emsp &emsp [II. Seminars](https://biotechstudentassociation.github.io/biotechresearchclub/seminars/) <br><br>
+## [I. Alumni Talks](https://biotechstudentassociation.github.io/biotechresearchclub/alumnitalks/)                 [II. Seminars](https://biotechstudentassociation.github.io/biotechresearchclub/seminars/) <br><br>
+
 
 ---
 ## Upcoming Talks
@@ -24,6 +25,7 @@ He is now an Assistant Professor at the Department of Chemistry, IIT Madras. We'
 <b> Abstract: </b>
 Single-molecule force spectroscopic (SMFS) techniques have enhanced our understanding of the role of mechanical forces in protein and enzyme biophysics, either by actively applying mechanical forces or by passively monitoring individual enzymatic processes held at a force. They have been used extensively to probe protein unfolding kinetics/pathways as well as mechanisms of biological molecular motors. In the current talk, I will discuss my research on the application of the commonly used SMFS techniques, optical tweezers (OT) and Single-molecule Atomic force microscope (SM-AFM) to probe the nano-mechanics of protein unfolding and translocation by ATP-dependent molecular motors. I will elaborate on how an OT based single-molecule assay has been applied to decipher the role of substrate directionality on protein degradation by ATP-dependent proteases as well as to probe the contribution of individual ATPase rings in a double ring protease. I will also highlight my research on the application of SM-AFM to co-relate the structure, sequence and mechanical stabilities of proteins as well as investigate the mechanical unfolding pathways of peri-plasmic binding proteins.
 
+
 ---
 ## Old Initiatives 
 --- 
@@ -35,7 +37,7 @@ Biotech Research Club is hosting a talk by Jay Panji, a PhD scholar at Universit
 <img src="../images/BRC-Poster-21-11.png" width="300" />
 
 <b> Title: </b> Modeling the development and function of the blood-brain barrier in zebrafish.
-
+ 
 <b> Date/Time: </b>  7PM, 21st November 2020
 
 <b> Venue: </b> Google Meet
