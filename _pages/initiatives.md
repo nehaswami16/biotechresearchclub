@@ -4,10 +4,11 @@ title: Initiatives
 permalink: /initiatives/
 ---
 
-## [I. Alumni Talks](https://biotechstudentassociation.github.io/biotechresearchclub/alumnitalks/)                [II. Seminars](https://biotechstudentassociation.github.io/biotechresearchclub/seminars/) <br><br>
+## [I. Alumni Talks](https://biotechstudentassociation.github.io/biotechresearchclub/alumnitalks/) &emsp &emsp &emsp [II. Seminars](https://biotechstudentassociation.github.io/biotechresearchclub/seminars/) <br><br>
 
-
+---
 ## Upcoming Talks
+---
 
 The Biotech Research Club is very happy to feature Prof. Hema Chandra Kotamarthi, a new member of the IIT Madras faculty. Prof. Kotamarthi obtained his Ph.D. in biophysical chemistry/molecular biophysics under the guidance of Dr. Sri Rama Koti Ainavarapu at the Tata Institute for Fundamental Research, Mumbai. He then moved to Boston and worked as a post-doctoral fellow of the Howard Hughes Medical Institute in the lab of Prof. Tania Baker in the Department of Biology, Massachusetts Institute of Technology. 
 He is now an Assistant Professor at the Department of Chemistry, IIT Madras. We're excited to have you all join us for the talk.
@@ -24,7 +25,6 @@ He is now an Assistant Professor at the Department of Chemistry, IIT Madras. We'
 Single-molecule force spectroscopic (SMFS) techniques have enhanced our understanding of the role of mechanical forces in protein and enzyme biophysics, either by actively applying mechanical forces or by passively monitoring individual enzymatic processes held at a force. They have been used extensively to probe protein unfolding kinetics/pathways as well as mechanisms of biological molecular motors. In the current talk, I will discuss my research on the application of the commonly used SMFS techniques, optical tweezers (OT) and Single-molecule Atomic force microscope (SM-AFM) to probe the nano-mechanics of protein unfolding and translocation by ATP-dependent molecular motors. I will elaborate on how an OT based single-molecule assay has been applied to decipher the role of substrate directionality on protein degradation by ATP-dependent proteases as well as to probe the contribution of individual ATPase rings in a double ring protease. I will also highlight my research on the application of SM-AFM to co-relate the structure, sequence and mechanical stabilities of proteins as well as investigate the mechanical unfolding pathways of peri-plasmic binding proteins.
 
 ---
-
 ## Old Initiatives 
 --- 
 
