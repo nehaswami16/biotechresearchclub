@@ -3,6 +3,7 @@ layout: page
 title: Initiatives
 permalink: /initiatives/
 ---
+## Upcoming Talks
 
 
 <img src="../images/Alumni-Talks-Banner.png" alt="drawing" width="600" />
@@ -11,6 +12,14 @@ permalink: /initiatives/
 
 The Biotech Research Club of IIT Madras hosts talks by current graduate and post-graduate students followed by discussion sessions for the current students to interact with the speakers. If you are interested in presenting your work here, get in touch with us!
 
+<img src="../images/Seminars.png" alt="drawing" width="600" />
+
+## [Seminars](https://biotechstudentassociation.github.io/biotechresearchclub/seminars/) <br><br>
+
+The Biotech Research Club of IIT Madras hosts talks by current graduate and post-graduate students followed by discussion sessions for the current students to interact with the speakers. If you are interested in presenting your work here, get in touch with us!
+
+
+## Old Initiatives 
 --- 
 
 Biotech Research Club is hosting a talk by Jay Panji, a PhD scholar at Université Libre de Bruxelles in Brussels, Belgium. The talk will be followed by a general discussion session for students to interact with the speaker. 
