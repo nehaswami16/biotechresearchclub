@@ -4,13 +4,13 @@ title: Initiatives
 permalink: /initiatives/
 ---
 
-<img src="../images/Alumni-Talks-Banner.png"/>
+<img src="../images/Alumni-Talks-Banner.png" width = "600" />
 
-# [I. Alumni Talks](https://biotechstudentassociation.github.io/biotechresearchclub/alumnitalks/)  
+## [I. Alumni Talks](https://biotechstudentassociation.github.io/biotechresearchclub/alumnitalks/)  
 
-<img src="../images/Seminars.png" />
+<img src="../images/Seminars.png" width = "600" />
  
-# [II. Seminars](https://biotechstudentassociation.github.io/biotechresearchclub/seminars/)
+## [II. Seminars](https://biotechstudentassociation.github.io/biotechresearchclub/seminars/)
 
 
 ---
