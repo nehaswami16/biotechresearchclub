@@ -13,7 +13,7 @@ He is now an Assistant Professor at the Department of Chemistry, IIT Madras. We'
 
 <img src="../images/BRC-poster-27-11.jpeg" alt="drawing" width="600" />
 
-<b> Title: <b> Probing nano-mechanics of protein unfolding and translocation using single-molecule force spectroscopy
+<b> Title: </b> Probing nano-mechanics of protein unfolding and translocation using single-molecule force spectroscopy
 
 <b> Date/Time: </b> 6 pm, 27th November 2020
 
