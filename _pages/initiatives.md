@@ -4,19 +4,72 @@ title: Initiatives
 permalink: /initiatives/
 ---
 
-<img src="../images/Alumni-Talks-Banner.png" width = "600" />
-
-## [I. Alumni Talks](https://biotechstudentassociation.github.io/biotechresearchclub/alumnitalks/)  
-
-<img src="../images/Seminars.png" width = "600" />
- 
-## [II. Seminars](https://biotechstudentassociation.github.io/biotechresearchclub/seminars/)
+## [I. Alumni Talks](https://biotechstudentassociation.github.io/biotechresearchclub/alumnitalks/)                [II. Seminars](https://biotechstudentassociation.github.io/biotechresearchclub/seminars/)
 
 
 ---
 ## Upcoming Talks
 ---
 
+The Biotech Research is excited to host Ms. Nandita Damaraju, an alumnus of the 2014 batch of the B.Tech Biotechnology program from IIT Madras. She is currently a machine learning scientist at Inflammatix Inc., San Fransisco, USA.
+
+<img src="../images/BRC-Poster-08-12-2020.jpeg" alt="drawing" width="600" />
+
+<b> Title: </b> Data Science opportunities in Biotech
+
+<b> Date/Time: </b> 9.30 pm, 8th December 2020
+
+<b> Link: </b> [https://meet.google.com/shv-bqzk-vwd](https://meet.google.com/shv-bqzk-vwd)
+
+<b> Abstract: </b>
+Data science is being increasingly leveraged to solve many problems in the biotech industry. Within the Biotech industry, however, data science can mean many different things depending on the company or application. As a Machine Learning Scientist in the biotech industry, I want to talk about my experience navigating the plethora of opportunities available at this exciting interdisciplinary intersection, how data science in biotech differs from other industries, and the rich potential of avenues combining life and data science.
+
+___
+
+The Biotech Research Club is excited to host Dr. Aman Kumar, a post doctoral associate at the Goodman lab in the Yale School of Medicine. He obtained PhD from UT Southwestern Medical Center in Molecular Microbiology in 2020 and his B.Tech in Biotechnology from
+IIT Madras in 2015.
+
+<b> Title: </b> Interplay between tryptophan metabolites and the virulence factors of enteric pathogens
+
+<b> Date/Time: </b> 7:15pm, 12th December 2020
+
+<b> Link: </b> [https://meet.google.com/syj-mbcy-zxq](https://meet.google.com/syj-mbcy-zxq)
+
+<b> Abstract: </b>
+
+Microbial establishment within the gastrointestinal (GI) tract requires surveillance of the gut biogeography. The gut microbiota coordinates behaviors by sensing host- or microbiota-derived signals. Here we show that the tryptophan derivatives including the microbiota-derived indole and the host-derived serotonin decreases the virulence of enteric pathogens. We utilized C. rodentium (a mouse-specific model pathogen) to understand the dynamics of host-pathogen-microbiome interactions and show that both indole and serotonin decrease the expression of virulence-related genes in C . rodentium. Mechanistically, we also identified the bacterial membrane bound histidine kinase CpxA as an indole and serotonin sensor. Taken together, our data indicate that bacterial pathogen senses the gut info-chemicals to establish a successful infection. 
+
+___
+
+The Biotech Research Club is excited to host Srinivas Allanki, a final year PhD student working with Dr. Sven Reischauer and Prof. Didier Stainier at the Max Planck Institute for Heart and Lung Research in Germany. Using the highly regenerative
+zebrafish as a model system, he studies the fundamental mechanistic differences between regeneration, and forming a permanent and functionally inert scar after tissue damage. He is an alumnus of the dual degree (B.Tech and M.Tech) biological engineering program of IIT Madras. 
+
+<img src="../images/BRC-Poster-19-12-2020.png" alt="drawing" width="600" />
+
+<b> Title: </b> Mechanisms that define regeneration vs. scarring.
+
+<b> Date/Time: </b> 6.30 pm, 19th December 2020
+
+<b> Link: </b> [https://meet.google.com/fum-odmb-oas](https://meet.google.com/fum-odmb-oas)
+
+<b> Abstract: </b>
+
+The two diametrically opposed outcomes of tissue damage are fibrosis and scarring, or
+regeneration and functional repair. Species like zebrafish predominantly display a regenerative
+program resulting in the functional replacement of injured tissues, including the heart and
+appendages. Adult mammals predominantly activate a fibrotic program leading to the formation of a
+functionally inert scar. A key question remains as to how regenerative species escape an excessive
+fibrotic response. In this study, using combinatorial expression profiling and analyzing regeneration
+of multiple tissues in five mutants, we identify the first global upstream mechanism of regeneration
+in zebrafish. Moreover, using lineage tracing and human primary cell culture, we show that this
+mechanism prevents mammalian-like scarring in zebrafish. These observations open a novel entry
+point into the question as to why mammals react to tissue damage predominantly by fibrotic scarring
+over activating a regenerative program.
+
+
+---
+## Old Initiatives 
+--- 
 The Biotech Research Club is very happy to feature Prof. Hema Chandra Kotamarthi, a new member of the IIT Madras faculty. Prof. Kotamarthi obtained his Ph.D. in biophysical chemistry/molecular biophysics under the guidance of Dr. Sri Rama Koti Ainavarapu at the Tata Institute for Fundamental Research, Mumbai. He then moved to Boston and worked as a post-doctoral fellow of the Howard Hughes Medical Institute in the lab of Prof. Tania Baker in the Department of Biology, Massachusetts Institute of Technology. 
 He is now an Assistant Professor at the Department of Chemistry, IIT Madras. We're excited to have you all join us for the talk.
 
@@ -31,11 +84,7 @@ He is now an Assistant Professor at the Department of Chemistry, IIT Madras. We'
 <b> Abstract: </b>
 Single-molecule force spectroscopic (SMFS) techniques have enhanced our understanding of the role of mechanical forces in protein and enzyme biophysics, either by actively applying mechanical forces or by passively monitoring individual enzymatic processes held at a force. They have been used extensively to probe protein unfolding kinetics/pathways as well as mechanisms of biological molecular motors. In the current talk, I will discuss my research on the application of the commonly used SMFS techniques, optical tweezers (OT) and Single-molecule Atomic force microscope (SM-AFM) to probe the nano-mechanics of protein unfolding and translocation by ATP-dependent molecular motors. I will elaborate on how an OT based single-molecule assay has been applied to decipher the role of substrate directionality on protein degradation by ATP-dependent proteases as well as to probe the contribution of individual ATPase rings in a double ring protease. I will also highlight my research on the application of SM-AFM to co-relate the structure, sequence and mechanical stabilities of proteins as well as investigate the mechanical unfolding pathways of peri-plasmic binding proteins.
 
-
----
-## Old Initiatives 
---- 
-
+___
 Biotech Research Club is hosting a talk by Jay Panji, a PhD scholar at Université Libre de Bruxelles in Brussels, Belgium. The talk will be followed by a general discussion session for students to interact with the speaker. 
 
 <img src="../images/BRC-session-21-11.jpeg" alt="drawing" width="600" />
