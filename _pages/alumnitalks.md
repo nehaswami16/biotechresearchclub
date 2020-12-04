@@ -27,7 +27,7 @@ Data science is being increasingly leveraged to solve many problems in the biote
 
 ___
 
-The Biotech Research Club is excited to host Dr. Aman Kumar, a post doctoral associate at the Goodman lab in the Yale School of Medicine. He obtained PhD from UT Southwestern Medical Center in Molecular Microbiology in 2020 and his B.Tech in Biotechnology from
+The Biotech Research Club is excited to host Dr. Aman Kumar, a post doctoral associate at the Goodman lab in the Yale School of Medicine. He obtained his PhD from UT Southwestern Medical Center in Molecular Microbiology in 2020 and his B.Tech in Biotechnology from
 IIT Madras in 2015.
 
 <b> Title: </b> Interplay between tryptophan metabolites and the virulence factors of enteric pathogens
