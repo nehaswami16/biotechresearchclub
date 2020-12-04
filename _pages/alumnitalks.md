@@ -20,8 +20,6 @@ The Biotech Research Club is excited to host Ms. Nandita Damaraju, an alumnus of
 
 <b> Date/Time: </b> 9.30 pm, 8th December 2020
 
-<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NWFlODFydDZlMGxjcWFrOTlwa3RmY3RkYWwgYmUxN2IwMzZAc21haWwuaWl0bS5hYy5pbg&amp;tmsrc=be17b036%40smail.iitm.ac.in"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
-
 <b> Link: </b> [https://meet.google.com/shv-bqzk-vwd](https://meet.google.com/shv-bqzk-vwd)
 
 <b> Abstract: </b>
