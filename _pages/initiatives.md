@@ -60,7 +60,10 @@ over activating a regenerative program.
 
 The Biotech Research Club is excited to host Ms. Nandita Damaraju, an alumnus of the 2014 batch of the B.Tech Biotechnology program from IIT Madras. She is currently a machine learning scientist at Inflammatix Inc., San Fransisco, USA.
 
+### Click on the image below to watch the recording!
+
 [![Watch the video](https://img.youtube.com/vi/7YaJzW_vuVk/maxresdefault.jpg)](https://www.youtube.com/watch?v=7YaJzW_vuVk)
+
 
 <img src="../images/BRC-Poster-08-12-2020.jpeg" alt="drawing" width="600" />
 
