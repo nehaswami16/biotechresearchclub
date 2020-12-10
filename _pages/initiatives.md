@@ -11,21 +11,6 @@ permalink: /initiatives/
 ## Upcoming Talks
 ---
 
-The Biotech Research Club is excited to host Ms. Nandita Damaraju, an alumnus of the 2014 batch of the B.Tech Biotechnology program from IIT Madras. She is currently a machine learning scientist at Inflammatix Inc., San Fransisco, USA.
-
-<img src="../images/BRC-Poster-08-12-2020.jpeg" alt="drawing" width="600" />
-
-<b> Title: </b> Data Science opportunities in Biotech
-
-<b> Date/Time: </b> 9.30 pm, 8th December 2020
-
-<b> Link: </b> [https://meet.google.com/shv-bqzk-vwd](https://meet.google.com/shv-bqzk-vwd)
-
-<b> Abstract: </b>
-Data science is being increasingly leveraged to solve many problems in the biotech industry. Within the Biotech industry, however, data science can mean many different things depending on the company or application. As a Machine Learning Scientist in the biotech industry, I want to talk about my experience navigating the plethora of opportunities available at this exciting interdisciplinary intersection, how data science in biotech differs from other industries, and the rich potential of avenues combining life and data science.
-
-___
-
 The Biotech Research Club is excited to host Dr. Aman Kumar, a post doctoral associate at the Goodman lab in the Yale School of Medicine. He obtained his PhD from UT Southwestern Medical Center in Molecular Microbiology in 2020 and his B.Tech in Biotechnology from
 IIT Madras in 2015.
 
@@ -70,8 +55,24 @@ over activating a regenerative program.
 
 
 ---
-## Old Initiatives 
+## Old Talks 
 --- 
+
+The Biotech Research Club is excited to host Ms. Nandita Damaraju, an alumnus of the 2014 batch of the B.Tech Biotechnology program from IIT Madras. She is currently a machine learning scientist at Inflammatix Inc., San Fransisco, USA.
+
+<img src="../images/BRC-Poster-08-12-2020.jpeg" alt="drawing" width="600" />
+
+<b> Title: </b> Data Science opportunities in Biotech
+
+<b> Date/Time: </b> 9.30 pm, 8th December 2020
+
+<b> Link: </b> [https://meet.google.com/shv-bqzk-vwd](https://meet.google.com/shv-bqzk-vwd)
+
+<b> Abstract: </b>
+Data science is being increasingly leveraged to solve many problems in the biotech industry. Within the Biotech industry, however, data science can mean many different things depending on the company or application. As a Machine Learning Scientist in the biotech industry, I want to talk about my experience navigating the plethora of opportunities available at this exciting interdisciplinary intersection, how data science in biotech differs from other industries, and the rich potential of avenues combining life and data science.
+
+___
+
 The Biotech Research Club is very happy to feature Prof. Hema Chandra Kotamarthi, a new member of the IIT Madras faculty. Prof. Kotamarthi obtained his Ph.D. in biophysical chemistry/molecular biophysics under the guidance of Dr. Sri Rama Koti Ainavarapu at the Tata Institute for Fundamental Research, Mumbai. He then moved to Boston and worked as a post-doctoral fellow of the Howard Hughes Medical Institute in the lab of Prof. Tania Baker in the Department of Biology, Massachusetts Institute of Technology. 
 He is now an Assistant Professor at the Department of Chemistry, IIT Madras. We're excited to have you all join us for the talk.
 
