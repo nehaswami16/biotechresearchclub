@@ -15,6 +15,8 @@ Biotech Research Club hosts a series featuring current graduate and post-graduat
 The Biotech Research Club is excited to host Dr. Aman Kumar, a post doctoral associate at the Goodman lab in the Yale School of Medicine. He obtained his PhD from UT Southwestern Medical Center in Molecular Microbiology in 2020 and his B.Tech in Biotechnology from
 IIT Madras in 2015.
 
+[![Watch the video](https://img.youtube.com/vi/7YaJzW_vuVk/maxresdefault.jpg)](https://www.youtube.com/watch?v=7YaJzW_vuVk)
+
 <img src="../images/BRC-Poster-12-12-2020.png" alt="drawing" width="600" />
 
 <b> Title: </b> Interplay between tryptophan metabolites and the virulence factors of enteric pathogens
