@@ -12,21 +12,6 @@ Biotech Research Club hosts a series featuring current graduate and post-graduat
 ## Upcoming Talks
 ---
 
-The Biotech Research Club is excited to host Ms. Nandita Damaraju, an alumnus of the 2014 batch of the B.Tech Biotechnology program from IIT Madras. She is currently a machine learning scientist at Inflammatix Inc., San Fransisco, USA.
-
-<img src="../images/BRC-Poster-08-12-2020.jpeg" alt="drawing" width="600" />
-
-<b> Title: </b> Data Science opportunities in Biotech
-
-<b> Date/Time: </b> 9.30 pm, 8th December 2020
-
-<b> Link: </b> [https://meet.google.com/shv-bqzk-vwd](https://meet.google.com/shv-bqzk-vwd)
-
-<b> Abstract: </b>
-Data science is being increasingly leveraged to solve many problems in the biotech industry. Within the Biotech industry, however, data science can mean many different things depending on the company or application. As a Machine Learning Scientist in the biotech industry, I want to talk about my experience navigating the plethora of opportunities available at this exciting interdisciplinary intersection, how data science in biotech differs from other industries, and the rich potential of avenues combining life and data science.
-
-___
-
 The Biotech Research Club is excited to host Dr. Aman Kumar, a post doctoral associate at the Goodman lab in the Yale School of Medicine. He obtained his PhD from UT Southwestern Medical Center in Molecular Microbiology in 2020 and his B.Tech in Biotechnology from
 IIT Madras in 2015.
 
@@ -71,9 +56,23 @@ over activating a regenerative program.
 
 
 ---
-## Old Initiatives 
+## Old Talks
 --- 
 
+The Biotech Research Club is excited to host Ms. Nandita Damaraju, an alumnus of the 2014 batch of the B.Tech Biotechnology program from IIT Madras. She is currently a machine learning scientist at Inflammatix Inc., San Fransisco, USA.
+
+<img src="../images/BRC-Poster-08-12-2020.jpeg" alt="drawing" width="600" />
+
+<b> Title: </b> Data Science opportunities in Biotech
+
+<b> Date/Time: </b> 9.30 pm, 8th December 2020
+
+<b> Link: </b> [https://meet.google.com/shv-bqzk-vwd](https://meet.google.com/shv-bqzk-vwd)
+
+<b> Abstract: </b>
+Data science is being increasingly leveraged to solve many problems in the biotech industry. Within the Biotech industry, however, data science can mean many different things depending on the company or application. As a Machine Learning Scientist in the biotech industry, I want to talk about my experience navigating the plethora of opportunities available at this exciting interdisciplinary intersection, how data science in biotech differs from other industries, and the rich potential of avenues combining life and data science.
+
+___
 Biotech Research Club is hosting a talk by Jay Panji, a PhD scholar at Université Libre de Bruxelles in Brussels, Belgium. The talk will be followed by a general discussion session for students to interact with the speaker. 
 
 <img src="../images/BRC-session-21-11.jpeg" alt="drawing" width="600" />
