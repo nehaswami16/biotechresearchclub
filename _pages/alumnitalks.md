@@ -12,23 +12,6 @@ Biotech Research Club hosts a series featuring current graduate and post-graduat
 ## Upcoming Talks
 ---
 
-The Biotech Research Club is excited to host Dr. Aman Kumar, a post doctoral associate at the Goodman lab in the Yale School of Medicine. He obtained his PhD from UT Southwestern Medical Center in Molecular Microbiology in 2020 and his B.Tech in Biotechnology from
-IIT Madras in 2015.
-
-<img src="../images/BRC-Poster-12-12-2020.png" alt="drawing" width="600" />
-
-<b> Title: </b> Interplay between tryptophan metabolites and the virulence factors of enteric pathogens
-
-<b> Date/Time: </b> 7:15pm, 12th December 2020
-
-<b> Link: </b> [https://meet.google.com/syj-mbcy-zxq](https://meet.google.com/syj-mbcy-zxq)
-
-<b> Abstract: </b>
-
-Microbial establishment within the gastrointestinal (GI) tract requires surveillance of the gut biogeography. The gut microbiota coordinates behaviors by sensing host- or microbiota-derived signals. Here we show that the tryptophan derivatives including the microbiota-derived indole and the host-derived serotonin decreases the virulence of enteric pathogens. We utilized C. rodentium (a mouse-specific model pathogen) to understand the dynamics of host-pathogen-microbiome interactions and show that both indole and serotonin decrease the expression of virulence-related genes in C . rodentium. Mechanistically, we also identified the bacterial membrane bound histidine kinase CpxA as an indole and serotonin sensor. Taken together, our data indicate that bacterial pathogen senses the gut info-chemicals to establish a successful infection. 
-
-___
-
 The Biotech Research Club is excited to host Srinivas Allanki, a final year PhD student working with Dr. Sven Reischauer and Prof. Didier Stainier at the Max Planck Institute for Heart and Lung Research in Germany. Using the highly regenerative
 zebrafish as a model system, he studies the fundamental mechanistic differences between regeneration, and forming a permanent and functionally inert scar after tissue damage. He is an alumnus of the dual degree (B.Tech and M.Tech) biological engineering program of IIT Madras. 
 
@@ -58,6 +41,23 @@ over activating a regenerative program.
 ---
 ## Old Talks
 --- 
+
+The Biotech Research Club is excited to host Dr. Aman Kumar, a post doctoral associate at the Goodman lab in the Yale School of Medicine. He obtained his PhD from UT Southwestern Medical Center in Molecular Microbiology in 2020 and his B.Tech in Biotechnology from
+IIT Madras in 2015.
+
+<img src="../images/BRC-Poster-12-12-2020.png" alt="drawing" width="600" />
+
+<b> Title: </b> Interplay between tryptophan metabolites and the virulence factors of enteric pathogens
+
+<b> Date/Time: </b> 7:15pm, 12th December 2020
+
+<b> Link: </b> [https://meet.google.com/syj-mbcy-zxq](https://meet.google.com/syj-mbcy-zxq)
+
+<b> Abstract: </b>
+
+Microbial establishment within the gastrointestinal (GI) tract requires surveillance of the gut biogeography. The gut microbiota coordinates behaviors by sensing host- or microbiota-derived signals. Here we show that the tryptophan derivatives including the microbiota-derived indole and the host-derived serotonin decreases the virulence of enteric pathogens. We utilized C. rodentium (a mouse-specific model pathogen) to understand the dynamics of host-pathogen-microbiome interactions and show that both indole and serotonin decrease the expression of virulence-related genes in C . rodentium. Mechanistically, we also identified the bacterial membrane bound histidine kinase CpxA as an indole and serotonin sensor. Taken together, our data indicate that bacterial pathogen senses the gut info-chemicals to establish a successful infection. 
+
+___
 
 The Biotech Research Club is excited to host Ms. Nandita Damaraju, an alumnus of the 2014 batch of the B.Tech Biotechnology program from IIT Madras. She is currently a machine learning scientist at Inflammatix Inc., San Fransisco, USA.
 
