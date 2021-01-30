@@ -12,7 +12,7 @@ Biotech Research Club hosts a series featuring current graduate and post-graduat
 ## Upcoming Talks
 ---
 
-
+Stay tuned!
 
 
 ---
