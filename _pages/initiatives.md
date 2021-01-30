@@ -97,7 +97,9 @@ in zebrafish. Moreover, using lineage tracing and human primary cell culture, we
 mechanism prevents mammalian-like scarring in zebrafish. These observations open a novel entry
 point into the question as to why mammals react to tissue damage predominantly by fibrotic scarring
 over activating a regenerative program.
-____
+
+---
+
 The Biotech Research Club is excited to host Dr. Aman Kumar, a post doctoral associate at the Goodman lab in the Yale School of Medicine. He obtained his PhD from UT Southwestern Medical Center in Molecular Microbiology in 2020 and his B.Tech in Biotechnology from
 IIT Madras in 2015.
 
@@ -117,7 +119,8 @@ Dr. Aman Kumar graduated from IIT Madras in 2015 with a  B.Tech + M.Tech in Biot
 
 Microbial establishment within the gastrointestinal (GI) tract requires surveillance of the gut biogeography. The gut microbiota coordinates behaviors by sensing host- or microbiota-derived signals. Here we show that the tryptophan derivatives including the microbiota-derived indole and the host-derived serotonin decreases the virulence of enteric pathogens. We utilized C. rodentium (a mouse-specific model pathogen) to understand the dynamics of host-pathogen-microbiome interactions and show that both indole and serotonin decrease the expression of virulence-related genes in C . rodentium. Mechanistically, we also identified the bacterial membrane bound histidine kinase CpxA as an indole and serotonin sensor. Taken together, our data indicate that bacterial pathogen senses the gut info-chemicals to establish a successful infection. 
 
-___
+---
+
 The Biotech Research Club is excited to host Ms. Nandita Damaraju, an alumnus of the 2014 batch of the B.Tech Biotechnology program from IIT Madras. She is currently a machine learning scientist at Inflammatix Inc., San Fransisco, USA.
 
 ### Click on the image below to watch the recording!
