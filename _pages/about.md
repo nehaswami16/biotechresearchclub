@@ -10,17 +10,14 @@ Biotech Research Club is a student run organisation at IIT Madras which serves a
 
 ### Heads (2021)
 
-<div align="center">
-
 | Gayathri Prakash | Nandakumar |
-|:-----:|:-----:|
+|:-----------------------:|:-----------------------:|
 | <img src = "../images/person.png" width = "250" height = "200"> | <img src = "../images/person.png" width = "250" height = "200"> | 
   
 | Neha Swaminathan | Sriya Veerapaneni |
-|:-----:|:-----:|
+|:-----------------------:|:-----------------------:|
 | <img src = "../images/person.png" width = "250" height = "200"> | <img src = "../images/person.png" width = "250" height = "200"> | 
 
-</div>
 
 ### Alumni Talks Coordinator (2020) 
 #### Burhan Sabuwala 
