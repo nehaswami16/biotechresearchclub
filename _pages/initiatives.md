@@ -22,9 +22,9 @@ This week's edition features Shruthy Suresh Aggarwal, an alumnus of the Batch of
 
 <b> Title: </b> A CRISPR-Cas9 screen reveals novel mechanisms of PD-L1 regulation in human lung Cancer
 
-</b> Date and Time: </b>  Thursday, 21st January, at 6:30 PM
+<b> Date and Time: </b>  Thursday, 21st January, at 6:30 PM
 
-</b> Link: </b>  [meet.google.com/njj-nxzw-mra](meet.google.com/njj-nxzw-mra)
+<b> Link: </b>  [meet.google.com/njj-nxzw-mra](meet.google.com/njj-nxzw-mra)
 
 <b>Biography of the Speaker:</b>
 
