@@ -11,6 +11,30 @@ permalink: /initiatives/
 ## Upcoming Talks
 ---
 
+
+---
+## Old Talks 
+--- 
+
+This week's edition features Shruthy Suresh Aggarwal, an alumnus of the Batch of 2013 who is currently a postdoctoral fellow in the Department of Cancer Biology & Genetics, Memorial Sloan Kettering Cancer Center.
+
+<img src="../images/BRC-Poster-21-01-2021.png" alt="drawing" width="600" />
+
+<b> Title: </b> A CRISPR-Cas9 screen reveals novel mechanisms of PD-L1 regulation in human lung Cancer
+
+</b> Date and Time: </b>  Thursday, 21st January, at 6:30 PM
+
+</b> Link: </b>  [meet.google.com/njj-nxzw-mra](meet.google.com/njj-nxzw-mra)
+
+<b>Biography of the Speaker:</b>
+
+Dr. Shruthy Suresh Aggarwal was born and raised in Chennai for 21 years and received a B.Tech in Biotechnology from IIT Madras in 2013. During this time, she worked in Dr. Karungaran Devarajan’s lab in the Department of Biotechnology for her Bachelors thesis work. A summer of exciting research at Michigan State University as a Khorana Scholar in 2012 motivated her to pursue graduate studies in the US. She obtained her Ph.D in Cancer Biology from the University of Texas, Southwestern Medical Center as an HHMI Med to Grad fellow in 2019. Her Ph.D thesis work in Dr. Kathryn O’Donnell’s laboratory has focused on using CRISPR based screening to identify regulators of the PD-L1 immune checkpoint in lung cancer. Her work contributed to the lab being awarded several grants: Welch Foundation Grant 2018, Friends of the Comprehensive Cancer Center Award in Cancer Research 2017 and NCI SPORE in Lung Cancer Career Development Award 2016. Shruthy is currently a postdoctoral fellow in the Department of Cancer Biology & Genetics, Memorial Sloan Kettering Cancer Center. Her work on melanoma metastasis in Dr. Richard White’s lab is funded by a Melanoma Research Foundation Career Development Award and a Translational Research in Oncology Training award.
+
+<b> Abstract: </b>
+
+Cancer cells express high levels of PD-L1, a ligand of the PD-1 receptor on T cells, allowing tumors to directly suppress T cell activity. Monoclonal antibody-based checkpoint inhibitor blockade (CIB) therapeutics (including anti-PD1 and anti-CTL4 therapies alone or in combination) have revolutionized the treatment of non-small cell lung cancer (NSCLC) and are now used as front-line therapy. However, only ~20% of all NSCLCs benefit from checkpoint blockade. Therefore, it is imperative to understand the mechanisms regulating immune checkpoints in lung cancer. We used Clustered Regularly Interspaced Short Palindromic Repeats (CRISPR)- based screening to identify regulators of PD-L1 in human lung cancer cells. Uroporphyrinogen Decarboxylase (UROD), a key enzyme in the heme biosynthesis pathway, was identified as a potent PD-L1 negative regulator. We show that impairment of heme production, which activates the Integrated Stress Response (ISR), results in enhanced PD-L1 translation. PD-L1 translation is repressed by non-canonical upstream open reading frames in its 5’ UTR, which are bypassed by ISR pathway activation, leading to suppression of anti-tumor immunity. We demonstrate that ISR-dependent translation of PD-L1 requires the translation initiation factor EIF5B. EIF5B overexpression, which is observed in human lung cancers and associated with poor prognosis, is sufficient to induce PD-L1. These findings uncover a new mechanism of immune surveillance regulation and suggest novel targets for therapeutic intervention.
+____
+
 The Biotech Research Club is excited to host Srinivas Allanki, a final year PhD student working with Dr. Sven Reischauer and Prof. Didier Stainier at the Max Planck Institute for Heart and Lung Research in Germany. Using the highly regenerative
 zebrafish as a model system, he studies the fundamental mechanistic differences between regeneration, and forming a permanent and functionally inert scar after tissue damage. He is an alumnus of the dual degree (B.Tech and M.Tech) biological engineering program of IIT Madras. 
 
@@ -21,6 +45,10 @@ zebrafish as a model system, he studies the fundamental mechanistic differences 
 <b> Date/Time: </b> 6.30 pm, 19th December 2020
 
 <b> Link: </b> [https://meet.google.com/fum-odmb-oas](https://meet.google.com/fum-odmb-oas)
+
+<b> Biography of the Speaker: </b>
+
+Srinivas Allanki graduated from the IIT Madras B.Tech. + M.Tech. Biotechnology dual degree program in 2016. He is now a final year Ph.D. student working with Dr. Sven Reischauer and Prof. Didier Stainier at the Max Planck Institute for Heart and Lung Research in Germany. Using the highly regenerative zebrafish as a model system, he studies the fundamental mechanistic differences between regeneration and forming a permanent and functionally inert scar after tissue damage.
 
 <b> Abstract: </b>
 
@@ -35,11 +63,7 @@ in zebrafish. Moreover, using lineage tracing and human primary cell culture, we
 mechanism prevents mammalian-like scarring in zebrafish. These observations open a novel entry
 point into the question as to why mammals react to tissue damage predominantly by fibrotic scarring
 over activating a regenerative program.
-
-
----
-## Old Talks 
---- 
+____
 The Biotech Research Club is excited to host Dr. Aman Kumar, a post doctoral associate at the Goodman lab in the Yale School of Medicine. He obtained his PhD from UT Southwestern Medical Center in Molecular Microbiology in 2020 and his B.Tech in Biotechnology from
 IIT Madras in 2015.
 
@@ -50,6 +74,10 @@ IIT Madras in 2015.
 <b> Date/Time: </b> 7:15pm, 12th December 2020
 
 <b> Link: </b> [https://meet.google.com/syj-mbcy-zxq](https://meet.google.com/syj-mbcy-zxq)
+
+<b> Biography of the Speaker: </b>
+
+Dr. Aman Kumar graduated from IIT Madras in 2015 with a  B.Tech + M.Tech in Biotechnology and went on to do a Ph.D. at the University of Texas Southwestern Medical Center, where he worked on host-pathogen-commensal interactions in the human gut in the lab of Prof. Vanessa Sperandio. He is currently a postdoctoral research associate in the lab of Prof. Andrew Goodman at the Yale School of Medicine.
 
 <b> Abstract: </b>
 
@@ -70,6 +98,10 @@ The Biotech Research Club is excited to host Ms. Nandita Damaraju, an alumnus of
 <b> Date/Time: </b> 9.30 pm, 8th December 2020
 
 <b> Link: </b> [https://meet.google.com/shv-bqzk-vwd](https://meet.google.com/shv-bqzk-vwd)
+
+<b> Biography of the Speaker: </b>
+
+Nandita Damaraju completed her bachelor's degree in Biotechnology from IIT Madras in 2014. She is currently Machine Learning Scientist at Inflammatix, Inc. San Francisco, USA. She has previously also worked at Thermo Fisher Scientific as a Data Scientist. She holds a master's degree in Computational Science and Engineering from Georgia Institute of Technology.
 
 <b> Abstract: </b>
 Data science is being increasingly leveraged to solve many problems in the biotech industry. Within the Biotech industry, however, data science can mean many different things depending on the company or application. As a Machine Learning Scientist in the biotech industry, I want to talk about my experience navigating the plethora of opportunities available at this exciting interdisciplinary intersection, how data science in biotech differs from other industries, and the rich potential of avenues combining life and data science.
