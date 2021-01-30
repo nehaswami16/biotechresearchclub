@@ -11,6 +11,21 @@ permalink: /initiatives/
 ## Upcoming Talks
 ---
 
+The Biotech Research Club is very excited to host Prof. Ninitha AJ, a new member of the Department of Biotechnology, Bhupat and Jyothi Mehta School of Biosciences, IIT Madras.
+
+<b> Title: </b> Brain eicosanoids and blood pressure regulation in hypertensive rats
+
+<b> Date and Time: </b>  Saturday, 6th February, 2021 at 6 PM
+
+<b> Link: </b>  
+
+<b>Biography of the Speaker:</b>
+
+Ninitha AJ completed her veterinary science degree from Madras Veterinary College, Chennai. She got her PhD from Michigan State University, where she was mentored by Professor Gregory D. Fink’s, an expert in cardiovascular and neuroscience research. For her postdoctoral training, she moved to University of Minnesota, where she studied the role of renal nerves in metabolic syndrome development and also studied the role of spinal cord stimulation in altering blood pressure regulation in human hypertensives. Later, she joined the Indian Institute of Science, Bangalore as an Inspire faculty and used whole body knock out and knock in mouse models to study cardiac hypertrophy and diabetes development.
+
+<b> Abstract: </b>
+
+Hypertension is a major risk factor for cardiovascular diseases like heart failure and stroke. Previously, central cyclooxygenase-1 inhibition was found to prevent the development of angiotensin II (AngII)-salt hypertension and sympathetic hyperactivity in rats. Our data suggested a significant up-regulation of lipocalin type prostaglandin D synthase (L-PGDS) mRNA levels in the organum vasculosum lamina terminalis, a circumventricular organ. This was accompanied by a significant increase in L-PGDS protein levels in the choroid plexus lining the ventricles. Therefore, it was hypothesized that the enzyme L-PGDS in the brain is critical for the development of hypertension in this model. To test this hypothesis, radio-telemeter devices were implanted in adult male Sprague Dawley rats for hemodynamic measurements. The study data established that L-PGDS is critical for the development of AngII-salt hypertension stressing the need for 1) studying the role of L-PGDS as a possible target for treating neurogenic hypertension and 2) developing targeted brain drug delivery tools in human hypertensives.
 
 ---
 ## Old Talks 
