@@ -16,6 +16,25 @@ permalink: /initiatives/
 ## Old Talks 
 --- 
 
+The Biotech Research Club is very happy to announce that this week's edition of our Alumni Talks Series features Dr. Swathi Ayloo an alumnus of the Batch of 2010, who is currently doing a postdoc at Harvard Medical School. 
+
+<img src="../images/BRC-Poster-29-01-2021.png" alt="drawing" width="600" />
+
+<b> Title: </b> Intracellular communication regulating Blood-Brain Barrier Integrity
+
+<b> Date and Time: </b>  Friday, 29th January, 2021 at 7:30 PM
+
+<b> Link: </b>  [https://meet.google.com/qpm-jrga-hcy](https://meet.google.com/qpm-jrga-hcy)
+
+<b>Biography of the Speaker:</b>
+
+Dr. Ayloo did her undergraduate degree at IIT Madras in the Dept. of Biotechnology and went on to do a Ph.D. at the University of Pennsylvania. Her research thesis was focused on understanding transport mechanisms at the single-molecule level as well as within cells. She also developed and implemented tools to optogenetically manipulate trafficking within neurons to better understand regulatory mechanisms of molecular transport in the nervous system. She is currently doing a postdoc at Harvard Medical School working at the interface of neuronal and vascular biology, focusing on the blood-brain barrier. 
+
+<b> Abstract: </b>
+
+Blood-central nervous system (CNS) barriers are functional interfaces separating the neural tissue from circulating blood and are essential for neuronal function and cellular homeostasis. Endothelial cells forming the walls of the blood vessels make up these barriers. Barrier properties are not intrinsic to CNS endothelial cells, but rather, are induced by the underlying microenvironment of the tissue. The specific extrinsic factors from perivascular cells that regulate barrier formation are, however, largely unknown. Here, I present a brief overview of our current understanding of how perivascular cells induce barrier properties in the CNS and provide some of our current findings in this area.
+___
+
 This week's edition features Shruthy Suresh Aggarwal, an alumnus of the Batch of 2013 who is currently a postdoctoral fellow in the Department of Cancer Biology & Genetics, Memorial Sloan Kettering Cancer Center.
 
 <img src="../images/BRC-Poster-21-01-2021.png" alt="drawing" width="600" />
