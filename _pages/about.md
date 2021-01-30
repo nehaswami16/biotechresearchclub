@@ -28,7 +28,6 @@ I'm a fourth-year undergraduate majoring in biological engineering and data scie
 | Sahana Gangadharan| Sankalpa Venkatraghavan | Sathvik Anantakrishnan |
 |:---:|:---:|:---:|
 |  <img src = "../images/Sahana.jpg" width = "250" height = "300"> | <img src = "../images/Sankalpa.jpg" width = "250" height = "300"> | <img src = "../images/Sathvik.jpg" width = "250" height = "300">|
-|:---:|:---:|:---:|
 | I'm a fourth-year undergraduate majoring in biological engineering. I'm interested in understanding the various aspects that govern development and communications within the brain, soul-stirring music and movies, and meeting new people.| I'm a fourth-year undergraduate majoring in biological engineering. I’m interested in research centred on questions from biology - especially those studied using the integrated approach of experiments, modelling and theory, books that make you feel things and the art of science communication. <br> [sankalpavenkatraghavan.com](sankalpavenkatraghavan.com)| I'm a fourth-year undergraduate majoring in biological sciences. I'm interested in interdisciplinary research, particularly in the use of physics and mathematical modeling to understand living systems. Outside of science, I love cats and all kinds of books. |
 
 
