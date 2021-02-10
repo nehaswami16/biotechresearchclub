@@ -11,13 +11,21 @@ permalink: /initiatives/
 ## Upcoming Talks
 ---
 
+Stay tuned!
+
+---
+## Old Talks 
+--- 
+
 The Biotech Research Club is very excited to host Prof. Ninitha AJ, a new member of the Department of Biotechnology, Bhupat and Jyothi Mehta School of Biosciences, IIT Madras.
+
+<img src="../images/BRC-Poster-06-02-2021.png" alt="drawing" width="600" />
 
 <b> Title: </b> Brain eicosanoids and blood pressure regulation in hypertensive rats
 
 <b> Date and Time: </b>  Saturday, 6th February, 2021 at 6 PM
 
-<b> Link: </b>  
+<b> Link: </b>  [https://meet.google.com/akt-pfqz-ziw](https://meet.google.com/akt-pfqz-ziw)
 
 <b>Biography of the Speaker:</b>
 
@@ -28,8 +36,6 @@ Ninitha AJ completed her veterinary science degree from Madras Veterinary Colleg
 Hypertension is a major risk factor for cardiovascular diseases like heart failure and stroke. Previously, central cyclooxygenase-1 inhibition was found to prevent the development of angiotensin II (AngII)-salt hypertension and sympathetic hyperactivity in rats. Our data suggested a significant up-regulation of lipocalin type prostaglandin D synthase (L-PGDS) mRNA levels in the organum vasculosum lamina terminalis, a circumventricular organ. This was accompanied by a significant increase in L-PGDS protein levels in the choroid plexus lining the ventricles. Therefore, it was hypothesized that the enzyme L-PGDS in the brain is critical for the development of hypertension in this model. To test this hypothesis, radio-telemeter devices were implanted in adult male Sprague Dawley rats for hemodynamic measurements. The study data established that L-PGDS is critical for the development of AngII-salt hypertension stressing the need for 1) studying the role of L-PGDS as a possible target for treating neurogenic hypertension and 2) developing targeted brain drug delivery tools in human hypertensives.
 
 ---
-## Old Talks 
---- 
 
 The Biotech Research Club is very happy to announce that this week's edition of our Alumni Talks Series features Dr. Swathi Ayloo an alumnus of the Batch of 2010, who is currently doing a postdoc at Harvard Medical School. 
 
@@ -48,7 +54,8 @@ Dr. Ayloo did her undergraduate degree at IIT Madras in the Dept. of Biotechnolo
 <b> Abstract: </b>
 
 Blood-central nervous system (CNS) barriers are functional interfaces separating the neural tissue from circulating blood and are essential for neuronal function and cellular homeostasis. Endothelial cells forming the walls of the blood vessels make up these barriers. Barrier properties are not intrinsic to CNS endothelial cells, but rather, are induced by the underlying microenvironment of the tissue. The specific extrinsic factors from perivascular cells that regulate barrier formation are, however, largely unknown. Here, I present a brief overview of our current understanding of how perivascular cells induce barrier properties in the CNS and provide some of our current findings in this area.
-___
+
+---
 
 This week's edition features Shruthy Suresh Aggarwal, an alumnus of the Batch of 2013 who is currently a postdoctoral fellow in the Department of Cancer Biology & Genetics, Memorial Sloan Kettering Cancer Center.
 
@@ -67,7 +74,8 @@ Dr. Shruthy Suresh Aggarwal was born and raised in Chennai for 21 years and rece
 <b> Abstract: </b>
 
 Cancer cells express high levels of PD-L1, a ligand of the PD-1 receptor on T cells, allowing tumors to directly suppress T cell activity. Monoclonal antibody-based checkpoint inhibitor blockade (CIB) therapeutics (including anti-PD1 and anti-CTL4 therapies alone or in combination) have revolutionized the treatment of non-small cell lung cancer (NSCLC) and are now used as front-line therapy. However, only ~20% of all NSCLCs benefit from checkpoint blockade. Therefore, it is imperative to understand the mechanisms regulating immune checkpoints in lung cancer. We used Clustered Regularly Interspaced Short Palindromic Repeats (CRISPR)- based screening to identify regulators of PD-L1 in human lung cancer cells. Uroporphyrinogen Decarboxylase (UROD), a key enzyme in the heme biosynthesis pathway, was identified as a potent PD-L1 negative regulator. We show that impairment of heme production, which activates the Integrated Stress Response (ISR), results in enhanced PD-L1 translation. PD-L1 translation is repressed by non-canonical upstream open reading frames in its 5’ UTR, which are bypassed by ISR pathway activation, leading to suppression of anti-tumor immunity. We demonstrate that ISR-dependent translation of PD-L1 requires the translation initiation factor EIF5B. EIF5B overexpression, which is observed in human lung cancers and associated with poor prognosis, is sufficient to induce PD-L1. These findings uncover a new mechanism of immune surveillance regulation and suggest novel targets for therapeutic intervention.
-____
+
+---
 
 The Biotech Research Club is excited to host Srinivas Allanki, a final year PhD student working with Dr. Sven Reischauer and Prof. Didier Stainier at the Max Planck Institute for Heart and Lung Research in Germany. Using the highly regenerative
 zebrafish as a model system, he studies the fundamental mechanistic differences between regeneration, and forming a permanent and functionally inert scar after tissue damage. He is an alumnus of the dual degree (B.Tech and M.Tech) biological engineering program of IIT Madras. 
