@@ -9,13 +9,21 @@ permalink: /seminars/
 ## Upcoming Talks
 ---
 
+Stay tuned!
+
+---
+## Old Talks 
+--- 
+
 The Biotech Research Club is very excited to host Prof. Ninitha AJ, a new member of the Department of Biotechnology, Bhupat and Jyothi Mehta School of Biosciences, IIT Madras.
+
+<img src="../images/BRC-Poster-06-02-2021.png" alt="drawing" width="600" />
 
 <b> Title: </b> Brain eicosanoids and blood pressure regulation in hypertensive rats
 
 <b> Date and Time: </b>  Saturday, 6th February, 2021 at 6 PM
 
-<b> Link: </b>  
+<b> Link: </b>  [https://meet.google.com/akt-pfqz-ziw](https://meet.google.com/akt-pfqz-ziw)
 
 <b>Biography of the Speaker:</b>
 
@@ -26,8 +34,6 @@ Ninitha AJ completed her veterinary science degree from Madras Veterinary Colleg
 Hypertension is a major risk factor for cardiovascular diseases like heart failure and stroke. Previously, central cyclooxygenase-1 inhibition was found to prevent the development of angiotensin II (AngII)-salt hypertension and sympathetic hyperactivity in rats. Our data suggested a significant up-regulation of lipocalin type prostaglandin D synthase (L-PGDS) mRNA levels in the organum vasculosum lamina terminalis, a circumventricular organ. This was accompanied by a significant increase in L-PGDS protein levels in the choroid plexus lining the ventricles. Therefore, it was hypothesized that the enzyme L-PGDS in the brain is critical for the development of hypertension in this model. To test this hypothesis, radio-telemeter devices were implanted in adult male Sprague Dawley rats for hemodynamic measurements. The study data established that L-PGDS is critical for the development of AngII-salt hypertension stressing the need for 1) studying the role of L-PGDS as a possible target for treating neurogenic hypertension and 2) developing targeted brain drug delivery tools in human hypertensives.
 
 ---
-## Old Talks 
---- 
 
 The Biotech Research Club is very happy to feature Prof. Hema Chandra Kotamarthi, a new member of the IIT Madras faculty. Prof. Kotamarthi obtained his Ph.D. in biophysical chemistry/molecular biophysics under the guidance of Dr. Sri Rama Koti Ainavarapu at the Tata Institute for Fundamental Research, Mumbai. He then moved to Boston and worked as a post-doctoral fellow of the Howard Hughes Medical Institute in the lab of Prof. Tania Baker in the Department of Biology, Massachusetts Institute of Technology. 
 He is now an Assistant Professor at the Department of Chemistry, IIT Madras. We're excited to have you all join us for the talk.
